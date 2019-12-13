@@ -1,0 +1,30 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Swap",
+            "request": "launch",
+            "mainClass": "Swap",
+            "projectName": "Worksheet 1_a02e28e5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TimeToAngle",
+            "request": "launch",
+            "mainClass": "TimeToAngle",
+            "projectName": "Worksheet 1_a02e28e5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Hello",
+            "request": "launch",
+            "mainClass": "Hello"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AreaCircle",
+            "request": "launch",
+            "mainClass": "AreaCircle"
+        }
+    ]
+}
